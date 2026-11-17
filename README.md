@@ -2,7 +2,7 @@
 
 **NUS student building web applications, backend workflows, and AI-assisted tools.**
 
-I enjoy turning practical problems into software people can use—from finding lost belongings to managing event registrations and running multiplayer games. My projects cover React interfaces, cloud databases, authentication, and the backend rules that keep shared data consistent.
+I enjoy turning practical problems into software people can use—from finding lost belongings to exploring market data and running multiplayer games. My projects cover React interfaces, cloud databases, authentication, and the backend rules that keep shared data consistent.
 
 [Explore my projects](#selected-projects) · [Team contributions](#team-projects--contributions) · [Browse all repositories](https://github.com/shounakm4?tab=repositories)
 
@@ -19,16 +19,16 @@ A mobile-first web prototype for NUS students to report lost or found items, rev
 
 [Code & architecture](https://github.com/shounakm4/FindIT#readme) · [Open app — NUS verification required](https://nusfindit.web.app)
 
-### [Study Break Night](https://github.com/shounakm4/study-break-night) — RSVP and organiser dashboard
+### [Stockapp — Market Sense Stock Tracker](https://github.com/shounakm4/Stockapp)
 
-A student event prototype with account-free registration, ticket confirmation, and an authenticated organiser desk.
+A local web app for exploring US stock momentum, sector strength, and market headlines using free data sources.
 
-- **Work includes:** RSVP forms, capacity-based reservations, attendee search, check-in, collection tracking, Excel exports, and calendar downloads.
-- **Engineering focus:** database transactions to protect limited stock, retry-safe registration, one-time redemption, and a public organiser demo isolated from real attendee data.
+- **Work includes:** ranked stock scans, sector comparisons, watchlist reminders, and relevant RSS news feeds.
+- **Engineering focus:** a Node.js HTTP API, rule-based scoring with readable reasons, cached market data, bounded concurrent requests, and a Yahoo-to-Stooq data fallback.
 
-`React` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+`JavaScript` `Node.js` `HTML` `CSS` `REST API` `RSS`
 
-[Code & setup](https://github.com/shounakm4/study-break-night#readme) · [Try organiser demo](https://study-break-night.vercel.app/demo/organiser) — demo login is in the project README.
+[Code & local setup](https://github.com/shounakm4/Stockapp#readme)
 
 ### [Diwali Party Royale](https://github.com/shounakm4/diwali-party-royale) — multiplayer party games
 
@@ -60,6 +60,6 @@ Two browser-based party games designed for a shared host screen and individual p
 
 ## More to explore
 
-[Market Sense Stock Tracker](https://github.com/shounakm4/Stockapp) explores market-data and news-feed integration. Earlier Python projects—including [Snake](https://github.com/shounakm4/snake-game), [US States Quiz](https://github.com/shounakm4/US-States-Quiz), and a [Pomodoro timer](https://github.com/shounakm4/pomodoro_timer)—show where I started.
+Earlier Python projects—including [Snake](https://github.com/shounakm4/snake-game), [US States Quiz](https://github.com/shounakm4/US-States-Quiz), and a [Pomodoro timer](https://github.com/shounakm4/pomodoro_timer)—show where I started.
 
 I'm interested in software engineering opportunities where I can build useful features, understand the systems behind them, and learn from a team.
